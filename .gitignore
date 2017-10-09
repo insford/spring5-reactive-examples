@@ -52,11 +52,5 @@ fabric.properties
 
 .gradle/
 .idea/
-build.gradle
-gradle/
-gradlew
-gradlew.bat
-settings.gradle
 spring5-reactive-examples.iml
 build
-src/test/
